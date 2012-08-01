@@ -6,6 +6,7 @@ gem 'rails' #'3.0.1'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3-ruby' #'1.3.3', :require => 'sqlite3'
+# gem 'prototype-rails'
 
 #This fixes Heroku error "Gemfile needs bundler v 1.0.0
 #gem 'bundler', '1.0.0', :require => 'bundler'
